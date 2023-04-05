@@ -1,0 +1,15 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\bin\Debug\net6.0\ExTrianguloPOO.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\bin\Debug\net6.0\ExTrianguloPOO.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\bin\Debug\net6.0\ExTrianguloPOO.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\bin\Debug\net6.0\ExTrianguloPOO.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\bin\Debug\net6.0\ExTrianguloPOO.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\obj\Debug\net6.0\ExTrianguloPOO.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\obj\Debug\net6.0\ExTrianguloPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\obj\Debug\net6.0\ExTrianguloPOO.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\obj\Debug\net6.0\ExTrianguloPOO.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\obj\Debug\net6.0\ExTrianguloPOO.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\obj\Debug\net6.0\ExTrianguloPOO.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\obj\Debug\net6.0\refint\ExTrianguloPOO.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\obj\Debug\net6.0\ExTrianguloPOO.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\obj\Debug\net6.0\ExTrianguloPOO.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ExTrianguloPOO\obj\Debug\net6.0\ref\ExTrianguloPOO.dll
